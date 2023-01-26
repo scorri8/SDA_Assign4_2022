@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499905819238",
+    "project_id": "aissgn4stephencorri",
+    "storage_bucket": "aissgn4stephencorri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499905819238:android:aa37a83fe241826c8ef3a7",
+        "android_client_info": {
+          "package_name": "com.example.sdaassign4_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499905819238-ede34csgcrp5vtl40bta7r3gs6voblp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpcj68YcnzmbiQgD1pP0jB8tcOdJrnhjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499905819238-ede34csgcrp5vtl40bta7r3gs6voblp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
